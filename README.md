@@ -138,13 +138,3 @@ All baselines share the same `forward(story, query) → (logits, [])` interface 
 
 ---
 
-## Reference
-
-```bibtex
-@inproceedings{sukhbaatar2015end,
-  title     = {End-To-End Memory Networks},
-  author    = {Sukhbaatar, Sainbayar and Szlam, Arthur and Weston, Jason and Fergus, Rob},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2015}
-}
-```
