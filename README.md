@@ -115,16 +115,6 @@ class Config:
 
 ---
 
-## Multi-hop Interpretability Dashboard
-
-An interactive widget lets you inspect **which memory slots the model attends to at each hop** for any test example:
-
-- Dropdown to select any test example
-- Filter by correct / wrong predictions
-- Heatmap of attention weight per sentence per hop
-- Supporting facts highlighted with ★
-
----
 
 ## Baselines Implemented
 
